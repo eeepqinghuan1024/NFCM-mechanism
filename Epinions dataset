@@ -1,0 +1,21 @@
+Epinions dataset
+
+This is who-trust-whom online social network of a a general consumer review site Epinions.com. 
+Members of the site can decide whether to ''trust'' each other. 
+All the trust relationships interact and form the Web of Trust which is then combined with review ratings 
+to determine which reviews are shown to the user.
+
+Dataset statistics
+Nodes	131828
+Edges	841372
+Nodes in largest WCC	119130 (0.904)
+Edges in largest WCC	833695 (0.991)
+Nodes in largest SCC	41441 (0.314)
+Edges in largest SCC	693737 (0.825)
+Average clustering coefficient	0.1279
+Number of triangles	4910076
+Fraction of closed triangles	0.02849
+Diameter (longest shortest path)	14
+90-percentile effective diameter	4.9
+
+# Epinions is available at https://snap.stanford.edu/data/index.html#signnets
