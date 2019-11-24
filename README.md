@@ -2,7 +2,7 @@
 Noting: our project is in progess and will be improved in the future
 
 NFCM has been proposed for simultaneous spread of the positive and negative information in OSNs. As shown in Figure 1, the work process of NFCM consists of five steps:
-
+![Alt text](https://github.com/eeepqinghuan1024/NFCM-mechanism/blob/master/CaseWCG.jpg)
 
 
 
