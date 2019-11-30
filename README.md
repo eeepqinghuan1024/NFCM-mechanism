@@ -10,6 +10,10 @@ In our proposed NFCM mechanism, there is a control decision center and N network
 * The seed users indepeddently perform the control tasks they received.
 * After the seed users complete the received control tasks, the execution results are fed back to CDC.
 
-Specifically, a novel computational model is first proposed to present the temporal dynamics of the positive and negative information spread. Furthermore, the proposed mechanism restrains the negative information spread with minimal system expenses by devising and performing three synergetic intervention strategies.
+Specifically, a novel computational model is first proposed to present the temporal dynamics of the positive and negative information spread. Users in this model are divided into four types: unknown state, positive information-spreading state, negative information-spreading state and dual information-hesitating state. Then, the transfer relationships among
+four different states are shown in Figure 2:
+![The transfer relationships among four user states](https://github.com/eeepqinghuan1024/NFCM-mechanism/blob/master/NFCM.jpg)
+
+Furthermore, the proposed mechanism restrains the negative information spread with minimal system expenses by devising and performing three synergetic intervention strategies.
 
 The efficiency of the proposed mechanism is validated based on the extensive experimental results obtained from two real-world networks (i.e., Slashdot and Epinions).
