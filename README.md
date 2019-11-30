@@ -3,10 +3,12 @@ Noting: our project is in progess and will be improved in the future
 
 NFCM has been proposed for simultaneous spread of the positive and negative information in OSNs. As shown in Figure 1, the work process of NFCM consists of five steps:
 ![NFCM mechanism](https://github.com/eeepqinghuan1024/NFCM-mechanism/blob/master/NFCM.jpg)
-* 斤斤计较
-
-
-
+In our proposed NFCM mechanism, there is a control decision center and N network users.
+* The CDC first acquires the spread of the positive and negative information in the network region.
+* The CDC evaluates the number of seed users performing warning, correction and guidance strategies, respectively.
+* The CDC selects seed users and then send the control scheme to these users.
+* The seed users indepeddently perform the control tasks they received.
+* After the seed users complete the received control tasks, the execution results are fed back to CDC.
 
 Specifically, a novel computational model is first proposed to present the temporal dynamics of the positive and negative information spread. Furthermore, the proposed mechanism restrains the negative information spread with minimal system expenses by devising and performing three synergetic intervention strategies.
 
