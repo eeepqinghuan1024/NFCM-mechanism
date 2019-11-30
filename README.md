@@ -12,7 +12,7 @@ In our proposed NFCM mechanism, there is a control decision center and N network
 
 Specifically, a novel computational model is first proposed to present the temporal dynamics of the positive and negative information spread. Users in this model are divided into four types: unknown state, positive information-spreading state, negative information-spreading state and dual information-hesitating state. Then, the transfer relationships among
 four different states are shown in Figure 2:
-![The transfer relationships among four user states](https://github.com/eeepqinghuan1024/NFCM-mechanism/blob/master/NFCM.jpg)
+![The transfer relationships among four user states](https://github.com/eeepqinghuan1024/NFCM-mechanism/blob/master/Relationship1.png)
 
 Furthermore, the proposed mechanism restrains the negative information spread with minimal system expenses by devising and performing three synergetic intervention strategies.
 
